@@ -1,0 +1,55 @@
+Exercice 1 : Inverser les valeurs de deux variables:
+
+a = 5;
+b = 9;
+
+Exercice 2 : Réaliser un programme pour calculer la puissance de 2 puissance 2:
+
+Exercice 3 : Créez une fonction qui prend deux nombres comme arguments et retourne leur somme.
+
+sum = [ 5, 6] = 11;
+
+Exercice 4 : Écrivez une fonction qui prend un nombre entier de minutes et le convertit en secondes.
+
+1Min = 60Sec
+
+Exercice 5 :Créez une fonction qui prend un nombre en argument, incrémente le nombre +1 et renvoie le résultat.
+
+
+Exercice 6 :Écrivez une fonction qui prend la base et la hauteur d’un triangle et retourne sa surface. Notez
+que la surface d’un triangle est: (base * hauteur) / 2,
+.
+
+Exercice 7 :Écrivez un programme JavaScript pour inverser une chaîne de caractères.
+
+exemple:
+Innova Academy = ymedacA avonnI;
+
+Exercice 8 :Écrivez un programme JavaScript pour trouver le plus grand des trois entiers donnés.
+
+exemple:
+
+bigest = [6,9,5] = 9
+
+Exercice 9:Créez une fonction qui prend un tableau et renvoie le premier élément. Notez que le premier élément d’un tableau commence toujours par l’index 0.
+
+exemple:
+
+arr = [1,2,3,4,5,6] = 1
+
+
+Exercice 10: calculer la somme ,retournez TRUE si la somme des deux nombres est inférieure à 100. Sinon,retournez FALSE.
+
+Exercice 11: Écrivez une fonction qui convertit les heures en secondes. Notez qu’il y a 60 secondes en une minute et 60 minutes en une heure.
+
+
+ 
+
+
+
+
+
+
+
+
+
